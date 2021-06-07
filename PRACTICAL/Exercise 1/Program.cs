@@ -6,7 +6,7 @@ namespace GeometryExample
         public static void Main(string[] args)
         {
             var cylinder = new Cylinder();
-            Console.WriteLine(" the dimensions of the cylinder");
+            Console.WriteLine(" Nhan Kich Thuoc Cua Hinh Tru");
             while (true)
             {
                 try
