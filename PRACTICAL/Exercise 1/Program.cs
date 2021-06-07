@@ -1,5 +1,5 @@
 ﻿using System;
-namespace GeometryExample
+namespace T2008m.PRACTICAL.Exercise_1
 {
     internal class Program
     {
