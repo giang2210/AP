@@ -17,6 +17,7 @@ namespace T2008m.PRACTICAL.Exercise_1
                     cylinder.Height = Convert.ToDouble(Console.ReadLine());
                     cylinder.Process();
                     Console.WriteLine(cylinder.Result());
+                    return;
                 }
                 catch (Exception e)
                 {

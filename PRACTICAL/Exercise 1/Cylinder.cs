@@ -33,7 +33,8 @@ namespace T2008m.PRACTICAL.Exercise_1
         public string Result()
         {
             return "Radius: " + Radius + ", Height: " + Height + "\n" +
-                   "Base: " + Math.Round( BaseArea,2) + " | Lateral: " + LateralArea + " | Total: " + TotalArea + " | Volume: " +
+                   "Base: " + Math.Round(BaseArea, 2) + " | Lateral: " + LateralArea + " | Total: " + TotalArea +
+                   " | Volume: " +
                    Volume;
         }
     }
